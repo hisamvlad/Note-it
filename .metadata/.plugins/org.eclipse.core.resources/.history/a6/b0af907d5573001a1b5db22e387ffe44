@@ -1,0 +1,5 @@
+package com.noteit.mail;
+
+public class FeedbackMailSender {
+
+}
