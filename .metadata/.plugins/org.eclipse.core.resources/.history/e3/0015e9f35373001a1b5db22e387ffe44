@@ -1,5 +1,0 @@
-package com.noteit.dao;
-
-public interface NoteRepository {
-
-}

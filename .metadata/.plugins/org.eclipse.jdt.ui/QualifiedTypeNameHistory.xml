@@ -24,9 +24,6 @@
     <fullyQualifiedTypeName name="com.noteit.mail.FeedbackSender"/>
     <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestBody"/>
     <fullyQualifiedTypeName name="javax.validation.ValidationException"/>
-    <fullyQualifiedTypeName name="com.noteit.dao.NotebookRepository"/>
-    <fullyQualifiedTypeName name="com.noteit.domain.Notebook"/>
-    <fullyQualifiedTypeName name="com.noteit.domain.Note"/>
     <fullyQualifiedTypeName name="javax.validation.constraints.Email"/>
     <fullyQualifiedTypeName name="javax.validation.constraints.Min"/>
     <fullyQualifiedTypeName name="java.util.Date"/>
@@ -35,12 +32,20 @@
     <fullyQualifiedTypeName name="com.noteit.view.FeedbackViewModel"/>
     <fullyQualifiedTypeName name="com.noteit.view.Mapper"/>
     <fullyQualifiedTypeName name="java.util.stream.Collectors"/>
-    <fullyQualifiedTypeName name="com.noteit.view.NoteViewModel"/>
     <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="org.springframework.validation.BindingResult"/>
     <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.PostMapping"/>
-    <fullyQualifiedTypeName name="com.noteit.view.NotebookViewModel"/>
     <fullyQualifiedTypeName name="javax.persistence.Entity"/>
     <fullyQualifiedTypeName name="org.springframework.stereotype.Component"/>
     <fullyQualifiedTypeName name="org.springframework.stereotype.Repository"/>
+    <fullyQualifiedTypeName name="com.noteit.dao.NotebookRepository"/>
+    <fullyQualifiedTypeName name="com.noteit.view.NoteViewModel"/>
+    <fullyQualifiedTypeName name="com.noteit.domain.Note"/>
+    <fullyQualifiedTypeName name="com.noteit.view.NotebookViewModel"/>
+    <fullyQualifiedTypeName name="com.noteit.domain.Notebook"/>
+    <fullyQualifiedTypeName name="org.springframework.boot.web.servlet.support.SpringBootServletInitializer"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Configuration"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Profile"/>
+    <fullyQualifiedTypeName name="org.springframework.web.servlet.config.annotation.WebMvcConfigurer"/>
+    <fullyQualifiedTypeName name="org.springframework.web.servlet.config.annotation.CorsRegistry"/>
 </qualifiedTypeNameHistroy>
